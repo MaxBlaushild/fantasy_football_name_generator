@@ -1,0 +1,9 @@
+{
+  "name": "fantasy-football",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "firebase": "~2.2.7",
+    "handlebars": "~3.0.3"
+  }
+}
